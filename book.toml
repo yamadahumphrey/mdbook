@@ -13,6 +13,9 @@ command = "mdbook-mermaid"
 [preprocessor.image-size]
 command = "mdbook-image-size"
 
+[preprocessor.graphviz]
+command = "mdbook-graphviz"
+
 [output]
 
 [output.html]

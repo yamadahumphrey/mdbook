@@ -13,3 +13,9 @@ sdfdfsdf
 sdfsdf
 
 hello again.
+
+```dot process
+digraph {
+   "processed" -> "graph"
+}
+```
