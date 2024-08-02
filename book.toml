@@ -10,6 +10,9 @@ title = "my little world"
 [preprocessor.mermaid]
 command = "mdbook-mermaid"
 
+[preprocessor.image-size]
+command = "mdbook-image-size"
+
 [output]
 
 [output.html]
