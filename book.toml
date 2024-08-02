@@ -7,14 +7,14 @@ title = "my little world"
 
 [preprocessor]
 
+[preprocessor.graphviz]
+command = "mdbook-graphviz"
+
 [preprocessor.mermaid]
 command = "mdbook-mermaid"
 
 [preprocessor.image-size]
 command = "mdbook-image-size"
-
-[preprocessor.graphviz]
-command = "mdbook-graphviz"
 
 [output]
 
